@@ -22,4 +22,3 @@ import * as sequences from './sequences';
 export {aux_inputs, chords, data, sequences};
 
 export * from './midi_io';
-export * from './player';
